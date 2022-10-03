@@ -1,6 +1,6 @@
 {
-    "token": "MTAyNTg2MjY3NDYxNTEwNzY3Nw.GsAL6S.MzsU6JeiQqG7fGxy9XxekQxo0yPwn2gIC5HRXg",
+    "token": "[redacted]",
     "clientId": "1025862674615107677",
     "guildId": "1025856349646626848",
-    "mongo": "mongodb+srv://bot:Adamko.09@cluster0.qhbt5vh.mongodb.net/?retryWrites=true&w=majority"
+    "mongo": "mongodb+srv://[redacted]cluster0.qhbt5vh.mongodb.net/?retryWrites=true&w=majority"
 }
